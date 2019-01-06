@@ -1,0 +1,72 @@
+#header .logo img{
+    display: block;
+    margin: 0px auto;
+    padding: 2% 0%; 
+}
+
+#header .Refer {
+    background-image: url("../Images/refer&Earn.jpg");
+    display: inline-block;
+    width: 35px;
+    height: 18px;
+}
+
+#header .Trips {
+    width: 20px;
+    height: 18px;
+}
+
+#header .Support {
+    font-size: 10px;
+    border: 1px solid #b4b4b4;
+    border-radius: 3px;
+    padding: 2px 6px;
+    display: inline-block;
+    margin-bottom: 2px;
+}
+#header img{
+     text-align: center;
+}
+#header ul{
+    width: 150%;
+    padding: 0px;
+    margin: 0px;
+}
+#header li{
+    list-style: none;
+    float: left;
+    margin-right: 3%;
+}
+#header li a{
+    width: 150%!important;
+}
+#header li a:hover{
+    color: red;
+}
+#header .navbar{
+    padding: 10px 0px!important;
+    align-items: center!important;
+    justify-content: center!important;
+    margin-right: 0px; 
+}
+#header i{
+    padding-left: 15%;
+    font-size: 150%;
+}
+#header button {
+    padding: 0px;
+    margin-top: 15px;
+    background-color: blue;
+    border: 0px;
+    border-radius: 10px;
+    
+}
+#header button a{
+    padding: 0px;
+    margin: 0px;
+    width: 10%!important;
+}
+#header .navbarr{
+    padding: 0px;
+    width: 100%!important;
+}

@@ -1,0 +1,41 @@
+#carousel{
+    padding: 0px!important;
+    width: 600px;
+}
+#carousel .mainCarousel{
+    width: 600px!important;
+    height: 400px;
+}
+#carousel .slide div{
+    width: 600px;
+}
+#carousel .thumb img{
+    width: 70px;
+    height: 43px;
+}
+#carousel .animation{
+    animation: carousel 20s infinite linear;
+}
+@keyframes carousel{
+    0%{
+        transform: translate(0%,0px);
+    }
+    30%{
+        transform: translate(0%,0px);
+    }
+    33%{
+        transform: translate(-100%,0px);
+    }
+    63%{
+        transform: translate(-100%,0px);
+    }
+    66%{
+        transform: translate(-200%,0px);
+    }
+    96%{
+        transform: translate(-200%,0px);
+    }
+    100%{
+        transform: translate(0%,0px);
+    }
+}

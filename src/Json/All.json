@@ -1,0 +1,16 @@
+
+[{
+    "Flights" :[{"name":"Air India","From":["Delhi","Mumbai","Bangalore"],"To":["Delhi","Mumbai","Bangalore"],"depTime":"20:05","ArrTime":"23:15","Fare":3500},{"name":"Go Air","From":["Delhi","Mumbai","Bangalore"],"To":["Delhi","Mumbai","Bangalore"],"depTime":"19:05","ArrTime":"23:15","Fare":4000},{"name":"Spicejet","From":["Delhi","Mumbai","Bangalore"],"To":["Delhi","Mumbai","Bangalore"],"depTime":"21:05","ArrTime":"22:15","Fare":4500},{"name":"Indigo","From":["Delhi","Mumbai","Bangalore"],"To":["Delhi","Mumbai","Bangalore"],"depTime":"20:35","ArrTime":"00:15","Fare":5000},{"name":"Jet Aireways","From":["Delhi","Mumbai","Bangalore"],"To":["Delhi","Mumbai","Bangalore"],"depTime":"18:05","ArrTime":"20:15","Fare":5500}],
+
+    "Hotels" : [{"name":"Maharaja", "City":"New Delhi", "imageUrl":"https://media-cdn.tripadvisor.com/media/photo-s/02/22/ff/2f/filename-hotel-maharaja.jpg", "Rating":"4/5","Price":30000},{"name":"Piccadali", "City":"Goa", "imageUrl":"https://media-cdn.tripadvisor.com/media/photo-s/06/e3/8f/55/piccadily-hotel-new-delhi.jpg", "Rating":"3.5/5","Price":20000},{"name":"Taj Hotel", "City":"New Delhi", "imageUrl":"https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2009/10145/10145_0_tajpalacehotel_fsa-xl.jpg", "Rating":"4.5/5","Price":23699},{"name":"Hyatt", "City":"Bangalore", "imageUrl":"http://d.ibtimes.co.uk/en/full/1477274/cybersecurity-hyatt-hotels-becomes-latest-chain-fall-prey-payment-hack.jpg", "Rating":"4/5","Price":79999},{"name":"Oberoi", "City":"Mumbai", "imageUrl":"https://ui.cltpstatic.com/places/hotels/4100/41000/images/exterior_shot_w.jpg", "Rating":"3.5/5","Price":21312}] ,
+
+    "Holidays" : [{"name":"Kerala 4 Nights - Couple Special","imageUrl":"http://www.apjtours.com/wp-content/uploads/2015/05/kerala-holidays.jpg","Price":32353},{"name":"Magical Pattaya & Bangkok - Super Saver","imageUrl":"https://www.travelchords.com/gallery/jg79fwbqok/travelchords_bkqbad4.jpg","Price":32323},{"name":"North East Delight With Pelling (Summer Special)","imageUrl":"http://www.ebrahimtravels.com/packages/img/NorthEast.jpg","Price":55323},{"name":"The Chardham Yatra","imageUrl":"https://i.ndtvimg.com/i/2015-06/chardham_650x400_71435222794.jpg","Price":31323},{"name":"Magical South with Mysore, Ooty and Kodaikanal (Online Only)","imageUrl":"http://www.kanyakumaritours.com/img/tour-packages/mysore.jpg","Price":12323}],
+
+    "Bus" : [{"name":"India Impact Tour & Travels","From":["Delhi","Mumbai","Bangalore"],"To":["Mathura","Azamgarah","Varanasi"],"depTime":"20:05","ArrTime":"23:15","Fare":3500},{"name":"R.S Yadav Travels","From":["Delhi","Mumbai","Bangalore"],"To":["Mathura","Azamgarah","Varanasi"],"depTime":"20:05","ArrTime":"23:15","Fare":3500},{"name":"Shri Rishabh Travels","From":["Delhi","Mumbai","Bangalore"],"To":["Mathura","Azamgarah","Varanasi"],"depTime":"20:05","ArrTime":"23:15","Fare":3500},{"name":"Safar Express Tour And Travels","From":["Delhi","Mumbai","Bangalore"],"To":["Mathura","Azamgarah","Varanasi"],"depTime":"20:05","ArrTime":"23:15","Fare":3500},{"name":"Mahalaxmi Travels","From":["Delhi","Mumbai","Bangalore"],"To":["Mathura","Azamgarah","Varanasi"],"depTime":"20:05","ArrTime":"23:15","Fare":3500}],
+
+    "Cabs" : [{},{},{},{},{}],
+    "Gift Cards" : [{},{},{},{},{}]
+
+}]
+
+

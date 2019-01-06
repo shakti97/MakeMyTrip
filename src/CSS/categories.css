@@ -1,0 +1,11 @@
+#categories ul{
+    border: 1px solid ;
+    width: 40%;
+    padding: 0px;
+}
+#categories ul li{
+    border-bottom: 1px solid;
+    list-style: none;
+    padding: 15%;
+    font-size: 150%;
+}

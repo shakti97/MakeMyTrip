@@ -1,0 +1,11 @@
+#Flighte span{
+    margin : 15px;
+}
+button{
+    justify-content: flex-end;
+    color : white;
+    font-weight: 15px;
+    border: 1px solid blue!important;
+    background-color: blue!important;
+    cursor: pointer;
+}

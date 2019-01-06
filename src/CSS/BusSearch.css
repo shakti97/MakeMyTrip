@@ -1,0 +1,34 @@
+/* #Search input{
+    border : 1px solid transparent;
+    border-bottom : 1px solid blue;
+} */
+
+#Search button{
+    background-color : blue;
+    color : white;
+}
+/* legend.scheduler-border {
+    width:inherit!important; 
+    padding:0 10px!important; 
+    border-bottom:none!important;
+} */
+fieldset.scheduler-border {
+    border: solid 1px #DDD !important;
+    padding: 0 10px 10px 10px;
+    border-bottom: none;
+}
+
+legend.scheduler-border {
+    width: auto !important;
+    border: none;
+    font-size: 14px;
+}
+label{
+    margin: 0px 3%;
+}
+select{
+    margin: 0px 3%;
+}
+button{
+    margin: 0px 37%;
+}

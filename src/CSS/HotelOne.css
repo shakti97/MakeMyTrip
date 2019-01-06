@@ -1,0 +1,32 @@
+.card{
+    float: left;
+    border: 1px solid #000000;
+    padding: 0% 0% 5% 0%;
+    margin: 2% 8% 2% 0%;
+}
+img{
+    height: 200px;
+    width: 500px;
+}
+h4{
+    text-align: center;
+}
+.Line{
+
+}
+.left{
+    float: left;
+    color: blue;
+}
+.right{
+    float : right;
+    color: red;
+}
+button{
+        justify-content: flex-end;
+        color : white;
+        font-weight: 15px;
+        border: 1px solid blue!important;
+        background-color: blue!important;
+        cursor: pointer;
+    }
